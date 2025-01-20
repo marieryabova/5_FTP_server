@@ -1,0 +1,3 @@
+Сервер запущен на 127.0.0.1:65432
+[NEW CONNECTION] ('127.0.0.1', 56282) connected.
+[CONNECTION CLOSED] ('127.0.0.1', 56282) disconnected.

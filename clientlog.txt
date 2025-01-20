@@ -1,0 +1,23 @@
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): list
+['2.txt', '1.txt']
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): mkdir
+Введите имя: sample
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): rmdir
+Введите имя: sample
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): create_file
+Введите имя файла: test.txt
+Введите содержимое файла: hello,world
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): get_file
+Введите имя файла: test.txt
+hello,world
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): rename
+Введите старое имя файла: test.txt
+Введите новое имя файла: hello.txt
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): create_file
+Введите имя файла: kuku.txt
+Введите содержимое файла: kukushka
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): remove_file
+Введите имя: kuku.txt
+Введите команду (list, mkdir, rmdir, create_file, get_file, rename, copy, remove_file, quit): quit
+
+Process finished with exit code 0
